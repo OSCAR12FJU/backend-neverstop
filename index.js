@@ -20,9 +20,8 @@ app.use("/files", express.static("./src/app/files"));
 app.use('/api/auth', authRoutes);
 app.use('/api/product',createRoutes);
 
-const PORT = 3001;
-app.listen( PORT, () =>{
-    console.log(`Servidor corriendo en  http://localhost:${PORT}`);
-}
-)
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, () => {
+    console.log(`Servidor corriendo en http://localhost:${PORT}`);
+});
 
