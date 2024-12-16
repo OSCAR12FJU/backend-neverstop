@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Auriculares Bluetooth JBL 770",
+      "price": "81.82",
+      "description": "Características y beneficios\r\nCancelación de ruido adaptativa con Smart Environment\r\nLa cancelación adaptativa de ruido significa que no hay distracciones a la hora de concentrarse en estudiar o disfrutar de tu música favorita. Y si quieres escuchar el mundo que te rodea sin quitarte los auriculares, Conscious Environment y TalkThru resaltan las voces y los sonidos ambientales. Activa fácilmente estos modos de control del sonido ambiental a través de la aplicación JBL Headphones.",
+      "quantity": "20",
+      "category": "Auriculares Inalámbricos",
+      "image": "http://localhost:3001/files/image-1734124520308-822100847"
+    },
+    {
+      "id": 2,
+      "title": "JOYSTICK PLAY 5 - varios colores",
+      "price": "126.36",
+      "description": "Cuenta con Bluetooth.\r\nPantalla táctil.\r\nMando inalámbrico.\r\nCompatible con: Computadoras.\r\nCon sistema de vibración incorporado.\r\nCuenta con manual.\r\nDiversión garantizada con tu joystick PlayStation.\r\nDiseño ergonómico.",
+      "quantity": "30",
+      "category": "Gaming",
+      "image": "http://localhost:3001/files/image-1734125087590-770966970"
+    },
+    {
+      "id": 3,
+      "title": "TECLADO TDAGGER BORA",
+      "price": "40.91",
+      "description": "Este teclado T-Dagger de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.\r\n\r\nDistinción a todo color\r\nSu retroiluminación le da un toque diferente a tu equipo y resalta su composición cuando es utilizado en espacios poco iluminados.\r\n\r\nTecnología antighosting\r\nEste dispositivo tiene teclas antighosting. Esta cualidad es indispensable si requerís de un uso intensivo del periférico. Gracias a esto podrás evitar fallas al tocar varias teclas al mismo tiempo.\r\n\r\nEs gamer: Sí\r\nColor de la retroiluminación: Rainbow\r\nTipo de switch: T-Dagger Blue\r\nCon Bluetooth: No",
+      "quantity": "20",
+      "category": "Acc para PC",
+      "image": "http://localhost:3001/files/image-1734125198633-540191219"
+    },
+    {
+      "id": 4,
+      "title": "Mouse T-Dagger Imperial",
+      "price": "24.55",
+      "description": "Mouse T-Dagger Imperial \r\n¡Precisión y control al alcance de tu mano!\r\n\r\nTipo de sensor: Óptico\r\nTecnología del sensor: PixArt 3212\r\nResolución del sensor: Hasta 7200 dpi",
+      "quantity": "30",
+      "category": "Acc para Celular",
+      "image": "http://localhost:3001/files/image-1734125372143-505851188"
+    }
+  ]
+}
