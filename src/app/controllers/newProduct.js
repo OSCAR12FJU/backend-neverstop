@@ -18,7 +18,8 @@ export const createProduct = {
     }
 
     // Construir la URL del archivo
-    const imageUrl = `http://localhost:3001/files/${req.file.filename}`;
+    const PORT = process.env.PORT || 3001;
+    const imageUrl = `http://localhost:${PORT}/files/${req.file.filename}`;
 
 
         try{
