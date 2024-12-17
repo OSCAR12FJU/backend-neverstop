@@ -18,8 +18,8 @@ export const createProduct = {
     }
 
     // Construir la URL del archivo
-    const PORT = process.env.PORT || 3001;
-    const imageUrl = `http://localhost:${PORT}/files/${req.file.filename}`;
+    // const PORT = process.env.PORT || 3001;
+    const imageUrl = `https://backend-neverstop.onrender.com/files/${req.file.filename}`;
 
 
         try{
