@@ -5,6 +5,5 @@ export const getAllProducts = async() =>{
   if(products.length <= 0 ){
     throw new Error("No hay produductos");
   }
-
   return products;
 }
